@@ -20,3 +20,4 @@ streamlit run app_streamlit_logistic_regression.py
 - Trains a Logistic Regression model (with preprocessing for numeric + categorical features)
 - Splits training data into train/validation and shows metrics
 - Predicts on the test CSV and displays the first 50 predictions
+
